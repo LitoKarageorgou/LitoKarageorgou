@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Lito Karageorgou
 
-<!--
-**LitoKarageorgou/LitoKarageorgou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Front-end Developer
 
-Here are some ideas to get you started:
+🌱 **Psychologist turned developer** — passionate about crafting beautiful, accessible web experiences with modern front-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- HTML | CSS | JavaScript
+- React.js
+
+### 📚 Currently Learning
+- Deepening my expertise in **React.js**
+- Exploring **TypeScript**, **Next.js**, and **Redux**
+
+### 📁 Selected Works
+Check out my portfolio for a showcase of my favourite projects:  
+[github.com/LitoKarageorgou/portfolio](https://github.com/LitoKarageorgou/portfolio)
+
+### 🧑‍💼 About Me
+With a unique background in psychology, I bring empathy and user-focus to every project I build. I'm always excited to collaborate, learn, and grow in the fast-evolving world of web development.
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/lito-karageorgou/)
+
+---
+
+_“The best way to predict the future is to invent it.”_
