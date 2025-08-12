@@ -9,8 +9,7 @@
 - React.js
 
 ### 📚 Currently Learning
-- Deepening my expertise in **React.js**
-- Exploring **TypeScript**, **Next.js**, and **Redux**
+- **TypeScript**, **Next.js**, and **Redux**
 
 ### 📁 Selected Works
 Check out my portfolio for a showcase of my favourite projects:  
