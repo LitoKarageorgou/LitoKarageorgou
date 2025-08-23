@@ -15,9 +15,6 @@
 Check out my portfolio for a showcase of my favourite projects:  
 [github.com/LitoKarageorgou/portfolio](https://github.com/LitoKarageorgou/portfolio)
 
-### 🧑‍💼 About Me
-With a unique background in psychology, I bring empathy and user-focus to every project I build. I'm always excited to collaborate, learn, and grow in the fast-evolving world of web development.
-
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/lito-karageorgou/)
 
