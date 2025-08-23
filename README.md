@@ -15,6 +15,9 @@
 Check out my portfolio for a showcase of my favourite projects:  
 [github.com/LitoKarageorgou/portfolio](https://github.com/LitoKarageorgou/portfolio)
 
+###🙋‍♀️ About Me 
+Passionate about crafting web interfaces that are functional, thoughtful, and user-aware, with a constant drive to learn and improve.
+
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/lito-karageorgou/)
 
