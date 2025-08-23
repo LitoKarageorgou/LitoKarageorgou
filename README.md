@@ -2,7 +2,7 @@
 
 ## Junior Front-end Developer
 
-🌱 **Psychologist turned developer** — passionate about crafting web experiences that are that are functional, thoughtful, and user-aware.
+🌱 **Psychologist turned developer** — passionate about crafting web experiences that are functional, thoughtful, and user-aware. I’m driven by continuous learning, exploring new technologies, and growing as a developer every day.
 
 ### 🚀 Tech Stack
 - HTML | CSS | JavaScript
