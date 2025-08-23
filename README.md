@@ -23,4 +23,4 @@ With a unique background in psychology, I bring empathy and user-focus to every 
 
 ---
 
-_“The best way to predict the future is to invent it.”_
+_“An investment in knowledge pays the best interest.” – Benjamin Franklin_
