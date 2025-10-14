@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lito Karageorgou
 
-## Junior Front-end Developer (expanding into Full-Stack)
+## Software Engineer Intern
 
 🌱 Psychologist turned developer — passionate about crafting web experiences **end-to-end**, from intuitive UIs to functional backends.  
 I’m driven by continuous learning, exploring new technologies, and growing as a developer every day.
@@ -8,7 +8,7 @@ I’m driven by continuous learning, exploring new technologies, and growing as 
 ### 🚀 Tech Stack
 **Frontend:** HTML · CSS · JavaScript · React.js · TailwindCSS  
 **Backend (beginner experience):** Node.js · Express · SQLite  
-**Currently Learning:** TypeScript · Next.js · Redux  
+**Currently Learning:** Vue.js, PHP  
 
 
 ### 📁 Selected Works  
@@ -20,4 +20,4 @@ I’m driven by continuous learning, exploring new technologies, and growing as 
 
 ---
 
-_“An investment in knowledge pays the best interest.” – Benjamin Franklin_
+_“Education isn't something you can finish. ” – Isaac Asimov_
