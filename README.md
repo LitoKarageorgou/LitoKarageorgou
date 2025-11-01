@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Lito Karageorgou
 
-## Software Engineer Intern
+## Psychologist turned developer
 
-🌱 Psychologist turned developer — passionate about crafting web experiences **end-to-end**, from intuitive UIs to functional backends.  
+👩‍💻 I am passionate about crafting web experiences **end-to-end**, from intuitive UIs to functional backends.  
 I’m driven by continuous learning, exploring new technologies, and growing as a developer every day.
+
+#### I am currently a Software Engineer Intern at Epignosis Learning Technologies.
 
 ### 🚀 Tech Stack
 **Frontend:** HTML · CSS · JavaScript · React.js · TailwindCSS  
