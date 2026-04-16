@@ -8,7 +8,7 @@ I’m driven by continuous learning, exploring new technologies, and growing as 
 #### I am currently a Junior Software Engineer at Epignosis Learning Technologies.
 
 ### 🚀 Tech Stack
-**Frontend:** HTML · CSS · JavaScript · React.js · TailwindCSS  
+**Frontend:** HTML · CSS · JavaScript · React.js · Vue.js · TailwindCSS  
 **Backend:** PHP ·  SQL
 
 
