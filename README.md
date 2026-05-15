@@ -2,7 +2,7 @@
 
 ## Psychologist turned developer
 
-👩‍💻 I am passionate about crafting software solutions end-to-end **end-to-end**, from intuitive UIs to functional backends.  
+👩‍💻 I am passionate about crafting software solutions **end-to-end**, from intuitive UIs to functional backends.  
 I’m driven by continuous learning, exploring new technologies, and growing as a developer every day.
 
 #### I am currently a Junior Software Engineer at Epignosis Learning Technologies.
